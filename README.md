@@ -38,19 +38,19 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekfaruq6\&show_icons=true\&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=malekfaruq6\&theme=tokyonight)
 
 ---
 
 # 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekfaruq6\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -78,6 +78,6 @@ Email: [your-email@example.com](mailto:your-email@example.com)
 
 # 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=malekfaruq6\&color=blue)
 
 ---
