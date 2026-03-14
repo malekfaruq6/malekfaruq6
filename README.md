@@ -63,9 +63,7 @@
 ---
 
 # 🌍 Connect With Me
-
-LinkedIn: https://linkedin.com
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [malekfaruq6@gmail.com](mailto:malekfaruq6@gmail.com)
 
 ---
 
